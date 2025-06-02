@@ -1,0 +1,12 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path 
+    d="M18 3L33 12V24L18 33L3 24V12L18 3Z" 
+    stroke="#2d2d2d" 
+    strokeWidth="2" 
+    fill="none"
+  />
+  <path 
+    d="M18 9L27 14V22L18 27L9 22V14L18 9Z" 
+    fill="#cba54c" 
+  />
+</svg>
